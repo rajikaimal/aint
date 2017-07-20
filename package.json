@@ -1,0 +1,16 @@
+{
+  "name": "aint",
+  "version": "0.0.1",
+  "description": "Simpler and minimal state management",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava test"
+  },
+  "repository": "https://github.com/rajikaimal/aint",
+  "author": "rajikaimal <inbox.rajika@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "prettier": "^1.5.3"
+  }
+}

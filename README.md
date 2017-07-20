@@ -6,8 +6,6 @@ ain't nobody got time for complex state
 
 ### Usage
 
-#### React
-
 ```js
 const aint = require("aint");
 const loggerMiddlware = aint.loggerMiddlware();
@@ -42,6 +40,7 @@ aint.get("user");
 aint.get("user.firstname");
 ```
 
+```js
 {
   user: {
     firstname: "Rajika",
@@ -51,6 +50,7 @@ aint.get("user.firstname");
     url: "rajikimal.github.io"
   }
 }
+```
 
 ### API
 

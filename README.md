@@ -1,5 +1,7 @@
 # aint
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/aint.svg)](https://greenkeeper.io/)
+
 Simpler and minimal state management
 
 ain't nobody got time for complex state
